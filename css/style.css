@@ -390,6 +390,10 @@
     .academic__courses__item__img img{
         width: 300px;
     }
+    .academic__courses__box:nth-child(2){
+        padding: 0;
+        width: 200px;
+    }
     .academic__courses__item__title {
         font-size: 1rem;
         padding-bottom: 1rem;

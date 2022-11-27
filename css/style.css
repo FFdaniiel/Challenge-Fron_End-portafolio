@@ -157,6 +157,7 @@
     }
     
     .academic__courses__item__img {
+        width: 100%;
         background: #ffff;
         display: flex;
         justify-content: center;
@@ -224,11 +225,9 @@
         padding: 10px;
         color: var(--cor-de-btn);
     }
-    .experience__demo,.formcontato__botao{
-        background: var(--cor-de-btn);
-    }
-    .experience__botao--demo,.formcontato__botao{
+    .experience__botao--demo,.formcontato__botao, .formcontato__botao{
         padding: 10px;
+        background: var(--cor-de-btn);
         color: #fff;
     }
     .experience__botao--demo, .experiencia__botao--repo{
@@ -387,7 +386,7 @@
         padding: 1rem 1rem;
     }
     .academic__courses__item__img img{
-        height: 150px;
+        height: 200px;
     }
     .academic__courses__item__title {
         font-size: 1rem;

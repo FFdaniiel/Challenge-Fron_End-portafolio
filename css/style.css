@@ -27,7 +27,7 @@
         text-decoration: none;
         color: var(--cor-de-link);
     }
-    
+
     /* header */
     .menu,.title, .about, .skills,.hobbies,.experience{
         padding: 1rem;

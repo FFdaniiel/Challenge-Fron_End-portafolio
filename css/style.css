@@ -223,10 +223,12 @@
         padding: 10px;
         color: var(--cor-de-btn);
     }
+
     .experience__botao--demo,.formcontato__botao, .formcontato__botao{
         padding: 10px;
-        background: var(--cor-de-btn);
         color: #fff;
+        background: var(--cor-de-btn);
+
     }
     .experience__botao--demo, .experiencia__botao--repo{
         cursor: pointer;
@@ -242,6 +244,8 @@
     
     .experience__botao--demo:hover, .formcontato__botao:hover{
         color: var(--cor-de-btn);
+        background: transparent;
+
     }
     .experience__demo:hover, .formcontato__botao:hover{
         cursor: pointer;
